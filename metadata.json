@@ -1,0 +1,6 @@
+{
+  "name": "مصروفي - Masroofy",
+  "description": "تطبيق شخصي لإدارة المصاريف والدخل بالليرة السورية يعمل بدون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

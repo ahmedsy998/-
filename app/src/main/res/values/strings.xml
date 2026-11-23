@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مصروفي</string>
+    <string name="app_full_name">مصروفي — Masroofy</string>
+    <string name="currency_syp">ل.س</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_transactions">الحركات</string>
+    <string name="nav_reports">التقارير</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="cd_add_transaction">إضافة حركة جديدة</string>
+    <string name="cd_back">رجوع</string>
+    <string name="budget_channel_name">تنبيهات الميزانية</string>
+    <string name="budget_channel_desc" formatted="false">إشعارات عند الوصول إلى 80% أو 100% من الميزانية الشهرية</string>
+</resources>
